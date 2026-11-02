@@ -27,9 +27,9 @@ Name: Pinal Patel <br>What I do: I am a Data Science student and developer passi
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📂 My Repositories
 
-[![Cyber Crime Data Analysis](https://img.shields.io/badge/Cyber_Crime_Data_Analysis-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/pinal12092007-code/cyber-crime-data-analysis) 
-[![Cars Dataset Analysis](https://img.shields.io/badge/Cars_Dataset_Analysis-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/pinal12092007-code/cars-dataset-analysis) 
-[![SciWrite Flask App](https://img.shields.io/badge/SciWrite_Flask_App-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pinal12092007-code/sciwrite-flask-app) 
-[![Pinal Portfolio](https://img.shields.io/badge/Pinal_Portfolio-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pinal12092007-code/Pinal_Portfolio) 
-[![Travel Time Prediction ML](https://img.shields.io/badge/Travel_Time_Prediction-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/pinal12092007-code/travel-time-prediction-ml) 
-[![My Project](https://img.shields.io/badge/My_Project-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/pinal12092007-code/myproject)
+[![Profile README](https://img.shields.io/badge/pinal12092007--code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pinal12092007-code/pinal12092007-code)  
+[![Cyber Crime Data Analysis](https://img.shields.io/badge/Cyber_Crime_Data_Analysis-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/pinal12092007-code/cyber-crime-data-analysis)  
+[![Cars Dataset Analysis](https://img.shields.io/badge/Cars_Dataset_Analysis-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/pinal12092007-code/cars-dataset-analysis)  
+[![SciWrite Flask App](https://img.shields.io/badge/SciWrite_Flask_App-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pinal12092007-code/sciwrite-flask-app)  
+[![Pinal Portfolio](https://img.shields.io/badge/Pinal_Portfolio-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pinal12092007-code/Pinal_Portfolio)  
+[![Travel Time Prediction ML](https://img.shields.io/badge/Travel_Time_Prediction-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/pinal12092007-code/travel-time-prediction-ml)
