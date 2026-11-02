@@ -25,3 +25,11 @@ Name: Pinal Patel <br>What I do: I am a Data Science student and developer passi
 [![](https://komarev.com/ghpvc/?username=pinal12092007-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📂 My Repositories
+
+* [Cyber Crime Data Analysis](https://github.com/pinal12092007-code/cyber-crime-data-analysis)
+* [Cars Dataset Analysis](https://github.com/pinal12092007-code/cars-dataset-analysis)
+* [SciWrite Flask App](https://github.com/pinal12092007-code/sciwrite-flask-app)
+* [Pinal Portfolio](https://github.com/pinal12092007-code/Pinal_Portfolio)
+* [Travel Time Prediction ML](https://github.com/pinal12092007-code/travel-time-prediction-ml)
+* [My Project](https://github.com/pinal12092007-code/myproject)
