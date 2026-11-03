@@ -33,4 +33,5 @@ Name: Pinal Patel <br>What I do: I am a Data Science student and developer passi
 [![SciWrite Flask App](https://img.shields.io/badge/SciWrite_Flask_App-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/pinal12092007-code/sciwrite-flask-app)  
 [![Pinal Portfolio](https://img.shields.io/badge/Pinal_Portfolio-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/pinal12092007-code/Pinal_Portfolio)  
 [![Travel Time Prediction ML](https://img.shields.io/badge/Travel_Time_Prediction-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/pinal12092007-code/travel-time-prediction-ml)
+
 [![Customer Shopping Behavior](https://img.shields.io/badge/Customer_Shopping_Behavior-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/pinal12092007-code/customer-shopping-behavior-analysis)
